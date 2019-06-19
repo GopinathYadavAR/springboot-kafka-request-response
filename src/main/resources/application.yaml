@@ -1,0 +1,11 @@
+app:
+  spring:
+    kafka:
+    # Kafka url
+      bootstrap-servers: localhost:9092
+    # consumer group Id
+      groupid:  kafka-demo-groupId
+    # Topic
+      topic:  kafka-demo
+    # reply topic
+      reply-topic:  kafka-demo-reply-topic
