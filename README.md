@@ -15,7 +15,7 @@ Sample Springboot application with Kafka request and response model
     1. naviagate to project folder
     2. ./gradlew clean build
     3. gradle bootrun
-    4. springboot-kafka-request-response project will run localhost:8080    
+    4. springboot-kafka-request-response application will run on localhost:8080    
 
 ### Invoke sample REST Endpoint
     Once application started then invoke 
